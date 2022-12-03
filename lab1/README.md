@@ -1,5 +1,5 @@
 # This is Image Compression Programm (ICP).
-  ICP is implemented for comress images using Neural Network Algorithm.
+  ICP is implemented to compress images using Neural Network Algorithm.
   
   It's have **two**  control modes.
   + **Using**. 
