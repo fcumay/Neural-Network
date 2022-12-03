@@ -4,7 +4,7 @@
 ## To run:
   ▶️ main.py
 
-## General information:
+## General information 💡:
   This is a Letter Recognition Program (LRP)
   
   LRP can read information from file, so you should input your letter into example-file. Use only '*' and '.' symbols
