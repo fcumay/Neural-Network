@@ -2,7 +2,7 @@
 ## Algo:
   Hopfield network
 ## To run:
-  Run main.py
+  ▶️ main.py
 
 ## General information:
   This is a Letter Recognition Program (LRP)
