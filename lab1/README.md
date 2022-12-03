@@ -2,7 +2,7 @@
   ICP is implemented for comress images using Neural Network Algorithm.
   
   It's have **two**  control modes.
-  +Using. 
+  + Using. 
   NN already have necessary weight, use it when you need to compress image.
       
   ### How to start
