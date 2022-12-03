@@ -1,4 +1,4 @@
-#This is  Letter Recognition Program (LRP)
+# This is  Letter Recognition Program (LRP)
   LRP is implemented to recognize letter using Hopfield Neural Network Algorithm.
 
 
