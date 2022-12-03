@@ -1,2 +1,3 @@
 # Neural-Network
-#1
+1 NN 
+2 NN
