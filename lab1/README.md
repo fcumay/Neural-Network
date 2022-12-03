@@ -8,6 +8,7 @@
   NN have random values of its weights. It's a long process, so do not input little value of mistake.
       
   ### How to start
+   + ▶️main.py
    + Highly recommend you firstly choose 1-st and 3-th menu options to see how ICP work.
    + When ICP finishes process you will see compressed picture.
    
